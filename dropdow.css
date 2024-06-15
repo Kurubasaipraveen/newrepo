@@ -9,6 +9,9 @@
     &.error .dropdown-header {
       border-color: red;
     }
+    .dropdown{
+      direction: rtl;
+    }
   
     .dropdown-label {
       display: flex;

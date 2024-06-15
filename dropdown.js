@@ -1,4 +1,4 @@
-// src/components/Dropdown.js
+
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import { Info, UserCircle } from '@phosphor-icons/react';
